@@ -3,7 +3,7 @@
 Learn about the [different string literals and string templates](http://kotlinlang.org/docs/reference/basic-types.html#string-literals)
 in Kotlin.
 
-You can use the handy library functions 
+You can use the library functions 
 [`trimIndent`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/trim-indent.html)
 and [`trimMargin`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/trim-margin.html)
 to format multiline triple-quoted strings
